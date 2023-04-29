@@ -13,6 +13,7 @@
   </p>
 </p>
 
+LibertyLab publish of blockcore notes
 Blockcore Notes is an app for your public and personal notes. It is built to support the Nostr and Web5 (coming in the future).
 
 ![](/src/assets/blockcore-notes-screenshot.png)
