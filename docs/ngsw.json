@@ -1,0 +1,149 @@
+{
+  "configVersion": 1,
+  "timestamp": 1682892123224,
+  "index": "/blockcore-notes/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/blockcore-notes/22.5dfdeae90d3e0e0f.js",
+        "/blockcore-notes/911.d8294359b5074446.js",
+        "/blockcore-notes/favicon.ico",
+        "/blockcore-notes/index.html",
+        "/blockcore-notes/main.9e1cdc657680ef45.js",
+        "/blockcore-notes/manifest.webmanifest",
+        "/blockcore-notes/polyfills.cb95eb3bf985665c.js",
+        "/blockcore-notes/runtime.ac5d438f519d02ca.js",
+        "/blockcore-notes/styles.1e65fccc3a12ffdd.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/blockcore-notes/assets/badge-1024x1024.png",
+        "/blockcore-notes/assets/badge-128x128.png",
+        "/blockcore-notes/assets/badge-512x512.png",
+        "/blockcore-notes/assets/bg.jpg",
+        "/blockcore-notes/assets/blank.png",
+        "/blockcore-notes/assets/blockcore-light-small.png",
+        "/blockcore-notes/assets/blockcore-notes-screenshot.png",
+        "/blockcore-notes/assets/blockcore-notes-social.png",
+        "/blockcore-notes/assets/chat-bg.png",
+        "/blockcore-notes/assets/gradient.jpg",
+        "/blockcore-notes/assets/i18n/en.json",
+        "/blockcore-notes/assets/i18n/no.json",
+        "/blockcore-notes/assets/i18n/ru.json",
+        "/blockcore-notes/assets/icon.svg",
+        "/blockcore-notes/assets/icons/icon-120x120.png",
+        "/blockcore-notes/assets/icons/icon-128x128.png",
+        "/blockcore-notes/assets/icons/icon-128x128.webp",
+        "/blockcore-notes/assets/icons/icon-16x16.png",
+        "/blockcore-notes/assets/icons/icon-180x180.png",
+        "/blockcore-notes/assets/icons/icon-192x192.png",
+        "/blockcore-notes/assets/icons/icon-2048x2048.png",
+        "/blockcore-notes/assets/icons/icon-256x256.png",
+        "/blockcore-notes/assets/icons/icon-256x256.webp",
+        "/blockcore-notes/assets/icons/icon-32x32.png",
+        "/blockcore-notes/assets/icons/icon-48x48.png",
+        "/blockcore-notes/assets/icons/icon-512x512.png",
+        "/blockcore-notes/assets/icons/icon-96x96.png",
+        "/blockcore-notes/assets/icons/icon-light-128x128.png",
+        "/blockcore-notes/assets/icons/icon.svg",
+        "/blockcore-notes/assets/logos/youtube.png",
+        "/blockcore-notes/assets/logos/youtube.svg",
+        "/blockcore-notes/assets/nostr.svg",
+        "/blockcore-notes/assets/nostritch.avif",
+        "/blockcore-notes/assets/nostritch.jpg",
+        "/blockcore-notes/assets/post.svg",
+        "/blockcore-notes/assets/profile-bg.png",
+        "/blockcore-notes/assets/profile.png",
+        "/blockcore-notes/assets/shared.worker.js",
+        "/blockcore-notes/material-icons-base-400-normal.6a5d2b3f2786b8b0.woff",
+        "/blockcore-notes/material-icons-base-400-normal.a987d1598549506d.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/blockcore-notes/22.5dfdeae90d3e0e0f.js": "f856e04aff6c2d27cbfc002838d371c5043d7ecb",
+    "/blockcore-notes/911.d8294359b5074446.js": "8cc56ecc83f49a127c251f3bfa1edb0863321855",
+    "/blockcore-notes/assets/badge-1024x1024.png": "6b243a1b557ac27ba66255813f419579c0a29149",
+    "/blockcore-notes/assets/badge-128x128.png": "530be6f8d900da745a127c1bfeffd6ba0647c704",
+    "/blockcore-notes/assets/badge-512x512.png": "ebdab5b99e10df5781e1aa17b301619dc171a4b2",
+    "/blockcore-notes/assets/bg.jpg": "6f144bd16cfa604f2b443053b72f65085d79b16e",
+    "/blockcore-notes/assets/blank.png": "9bd57a695b57b5d7f66e14ac82a253361a927b3c",
+    "/blockcore-notes/assets/blockcore-light-small.png": "53480e79ba977f2705dd9ea529bfdea18949820b",
+    "/blockcore-notes/assets/blockcore-notes-screenshot.png": "bf785292460ee1327231c2eedc9f9c3cc80af852",
+    "/blockcore-notes/assets/blockcore-notes-social.png": "1d8540baaf6f7e4cbb157c718c8ee0124c21f560",
+    "/blockcore-notes/assets/chat-bg.png": "13693eb17195131dc5fc42721583fe0a12b7756b",
+    "/blockcore-notes/assets/gradient.jpg": "25f5214c12d2f72e56d0aef974f835e7faf3c199",
+    "/blockcore-notes/assets/i18n/en.json": "15acd990cfc034488fd7eb3fb0346df573a6df95",
+    "/blockcore-notes/assets/i18n/no.json": "2979d4bf2e3438ff880060617f39bb0c861a0328",
+    "/blockcore-notes/assets/i18n/ru.json": "15acd990cfc034488fd7eb3fb0346df573a6df95",
+    "/blockcore-notes/assets/icon.svg": "d5625fc55d3f1f03817c96cca9ec1ab145bfd229",
+    "/blockcore-notes/assets/icons/icon-120x120.png": "f2caf94507140fcf3ae926c608df9cd0db4e057f",
+    "/blockcore-notes/assets/icons/icon-128x128.png": "4af6e0c92b881022818f5953353768e48a8122e5",
+    "/blockcore-notes/assets/icons/icon-128x128.webp": "4cd07f2ab33420ced359070fcb30ba1d71e486ca",
+    "/blockcore-notes/assets/icons/icon-16x16.png": "771ba804fccfe2b61d05e0fed9e5f7c9424177ac",
+    "/blockcore-notes/assets/icons/icon-180x180.png": "50522d990ff4e68946a9c5caa900f317905ec34b",
+    "/blockcore-notes/assets/icons/icon-192x192.png": "a59946e3cea70a4e2c41884dc8331deddc86631a",
+    "/blockcore-notes/assets/icons/icon-2048x2048.png": "046b367f645d254ee0e646848fc4d22e5ec5b49e",
+    "/blockcore-notes/assets/icons/icon-256x256.png": "617ea1052b5c3daaf74cb23f476a2d1229e5ede8",
+    "/blockcore-notes/assets/icons/icon-256x256.webp": "0c325bc2d5576c2c0c29d4ae0ae48bd2d4c6f832",
+    "/blockcore-notes/assets/icons/icon-32x32.png": "ecf21080f621c70cb5649d6c6f357c39bd2507b3",
+    "/blockcore-notes/assets/icons/icon-48x48.png": "268f698275be62e8b07d28b2f9d89ad898a211f1",
+    "/blockcore-notes/assets/icons/icon-512x512.png": "dfed3dba7ab9133e9bd70ec24f47f2bc643f8efc",
+    "/blockcore-notes/assets/icons/icon-96x96.png": "212471ab808821e43853eee29acd5c586639a1b0",
+    "/blockcore-notes/assets/icons/icon-light-128x128.png": "ce6c0b954d7e624e000dfa3dd988cba3cb1c8ed0",
+    "/blockcore-notes/assets/icons/icon.svg": "7afd08f3da489226cbc25382dee256456302ca17",
+    "/blockcore-notes/assets/logos/youtube.png": "5231b443eddd2d747343a279c89f14dee7e77ba6",
+    "/blockcore-notes/assets/logos/youtube.svg": "d26ba1c3d5649897f5392598fbc02d74fd70f624",
+    "/blockcore-notes/assets/nostr.svg": "2e7f56c49de16c9443e2905051bfe23ac2a05713",
+    "/blockcore-notes/assets/nostritch.avif": "93a9d6a986596cb329c8f440678e08d3641c9c16",
+    "/blockcore-notes/assets/nostritch.jpg": "2ab92707847c7c00bb73a322a48c5d762e0c871c",
+    "/blockcore-notes/assets/post.svg": "eafce50a939af089be25256ef2477881764b7915",
+    "/blockcore-notes/assets/profile-bg.png": "72e07b2ba4f4cb3b9c0cf3351bdbba178646e41e",
+    "/blockcore-notes/assets/profile.png": "35f15a95e5fc7939121c71638a0cd8fe9830f7b6",
+    "/blockcore-notes/assets/shared.worker.js": "6e75321a613a8494dd9832a4316be960876435b8",
+    "/blockcore-notes/favicon.ico": "e225f1ea8ad3872db850d760a394fa09d353c80d",
+    "/blockcore-notes/index.html": "48164d6632fbc552b95b3c8607ed579196633a97",
+    "/blockcore-notes/main.9e1cdc657680ef45.js": "a7bb325587e1842e016443151b46bf82dc09bd48",
+    "/blockcore-notes/manifest.webmanifest": "e6e936035dbf65b9725c9b7cac977040b45a60f4",
+    "/blockcore-notes/material-icons-base-400-normal.6a5d2b3f2786b8b0.woff": "6e4299698a545c9cf5798fdbb3dd2e0350b41ae4",
+    "/blockcore-notes/material-icons-base-400-normal.a987d1598549506d.woff2": "c8de67e55036ce9ed7844c9a010a0c4cd5dfc54b",
+    "/blockcore-notes/polyfills.cb95eb3bf985665c.js": "fa6359d13e41052050225533cabfeb8f3db43d2d",
+    "/blockcore-notes/runtime.ac5d438f519d02ca.js": "635a8b9648c15a7168b702842c84880582690cfb",
+    "/blockcore-notes/styles.1e65fccc3a12ffdd.css": "7cd457ef4cb8e6e5acb08969ea212c5690d1f584"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
