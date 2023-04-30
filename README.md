@@ -9,11 +9,12 @@
     Notes app for decentralized infrastructures (Nostr and Web5)
   </p>
   <p align="center">
-      <a href="https://github.com/block-core/blockcore-notes/actions"><img src="https://github.com/block-core/blockcore-notes/workflows/Build%20and%20Publish%20Web%20Site/badge.svg" /></a>
+      <a href="https://github.com/cryptoeejit/blockcore-notes/actions"><img src="https://github.com/cryptoeejit/blockcore-notes/workflows/Build%20and%20Publish%20Web%20Site/badge.svg" /></a>
   </p>
 </p>
 
-LibertyLab publish of blockcore notes for dev
+LibertyLab version of blockcore notes
+
 Blockcore Notes is an app for your public and personal notes. It is built to support the Nostr and Web5 (coming in the future).
 
 ![](/src/assets/blockcore-notes-screenshot.png)
